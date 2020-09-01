@@ -1,19 +1,14 @@
-# Plug-And-Trust Mini Package Change Log
+# Hello World Change Log
 
-## Release v03.00.02
+## Release v00.00.02
 
-- T1oI2C:
+- Item1:
+  - subitem1
+  - subitem2
 
-  - Fixed: potential null pointer dereference
-
-  - Fixed: RSYNC _ + CRC error results in saving response to uninitialised buffer.
-
-- ``hostlib/hostLib/platform/linux/i2c_a7.c``: A call to `axI2CTerm()` now closes the I2C file descriptor associated with the
-  I2C communication channel.
+- Item2
 
 
-## Release v03.00.00
+## Release v00.00.01
 
 - Initial commit
-
-- Plug & Trust middleware to use secure element SE050
