@@ -1,5 +1,5 @@
 # Change Log
-Refer [ChangeLog](ChangeLog).
+Refer [ChangeLog](ChangeLog.md).
 
 # HelloWorld
 Just another repo
